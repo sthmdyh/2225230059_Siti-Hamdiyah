@@ -1,0 +1,12 @@
+body    {
+    background-image: url("SOLO VOKAL.png");
+    font-family: serif;
+    margin: 70px auto;
+        width: 1000px;
+        padding: 0px;
+}
+.card {
+    color: rgb(24, 1, 1);
+    background: rgb(255, 255, 255);
+    border-radius: 10px;
+  }
